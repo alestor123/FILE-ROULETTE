@@ -1,0 +1,54 @@
+{
+  "name": "file-roulette",
+  "version": "1.0.0",
+  "description": "This is a simple code for russian roulette where a random file or directory gets deleted if you got unlucky",
+  "main": "App.js",
+  "funding": "https://alestor123.is-a.dev/donate",  
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "App.js",
+    "cli.js",
+    "opt.js",
+    "assets/man/help.man"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "node",
+    "nodejs",
+    "tool",
+    "entertainment",
+    "file",
+    "folder",
+    "delete",
+    "remove",
+    "gambling",
+    "russian",
+    "roulette",
+    "game",
+    "games",
+    "risk",
+    "fs",
+    "rm-rf",
+    "chance",
+    "github"
+  ],
+  "scripts": {
+    "test": "standard && node test.js | tap-spec",
+    "example": "node run.js",
+    "lint": "standard . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/FILE-ROULETTE.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/FILE-ROULETTE/issues"
+  },
+  "homepage": "https://github.com/alestor123/FILE-ROULETTE#readme"
+}
