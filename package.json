@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is a simple code for russian roulette where a random file or directory gets deleted if you got unlucky",
   "main": "App.js",
-  "funding": "https://alestor123.is-a.dev/donate",  
+  "funding": "https://alestor123.is-a.dev/donate",
   "bin": "cli.js",
   "engines": {
     "node": ">=10"
@@ -50,5 +50,10 @@
   "bugs": {
     "url": "https://github.com/alestor123/FILE-ROULETTE/issues"
   },
-  "homepage": "https://github.com/alestor123/FILE-ROULETTE#readme"
+  "homepage": "https://github.com/alestor123/FILE-ROULETTE#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "minimist": "^1.2.6"
+  }
 }

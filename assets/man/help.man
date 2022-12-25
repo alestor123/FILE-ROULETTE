@@ -1,0 +1,11 @@
+
+        Usage: file-roulette -p <path>
+  
+
+Arguments : 
+
+-v, --version            get current version
+-h, --help               give this help list
+-i, --issue              give the url to issue page
+-d, --documentation      give the url to documentation page
+-p, --path               path to folder 
