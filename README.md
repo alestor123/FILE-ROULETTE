@@ -40,8 +40,14 @@ $ file-roulette -p <path>
 # Screenshots    
 
 ![shot](./demo/shots/file-roulette.png)
-![shot](./demo/shots/file-roulette.png)
-![shot](./demo/shots/file-roulette.png)
+
+
+
+![shot](./demo/shots/file-roulette2.png)
+
+
+
+![shot](./demo/shots/file-roulette3.png)
 
 
 

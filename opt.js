@@ -10,9 +10,9 @@ module.exports = options => {
       process.exit(aro.exit)
     }
   })
-  if (existsSync(resolve(options.p || options.path || './'))) {
+  if (existsSync(options.p || options.path)) {
     return {
-      path: resolve(options.p || options.path || './')
+      path: resolve(options.p || options.path)
     }
   } else throw new Error('Please enter valid path')
 }
